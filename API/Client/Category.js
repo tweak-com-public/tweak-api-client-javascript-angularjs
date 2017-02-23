@@ -9,47 +9,47 @@ API.Client.Category = function() {}
  * @type {!string}
  * @export
  */
-API.Client.Category.prototype.name;
+API.Client.Category.prototype.name = '';
 
 /**
  * @type {!string}
  * @export
  */
-API.Client.Category.prototype.description;
+API.Client.Category.prototype.description = '';
 
 /**
  * @type {!number}
  * @export
  */
-API.Client.Category.prototype.id;
+API.Client.Category.prototype.id = 0;
 
 /**
  * @type {!number}
  * @export
  */
-API.Client.Category.prototype.categoryId;
+API.Client.Category.prototype.categoryId = 0;
 
 /**
  * @type {!number}
  * @export
  */
-API.Client.Category.prototype.parentId;
+API.Client.Category.prototype.parentId = 0;
 
 /**
  * @type {!number}
  * @export
  */
-API.Client.Category.prototype.designId;
+API.Client.Category.prototype.designId = 0;
 
 /**
  * @type {!Array<!API.Client.Object>}
  * @export
  */
-API.Client.Category.prototype.children;
+API.Client.Category.prototype.children = [];
 
 /**
  * @type {!API.Client.Object}
  * @export
  */
-API.Client.Category.prototype.parent;
+API.Client.Category.prototype.parent = {};
 

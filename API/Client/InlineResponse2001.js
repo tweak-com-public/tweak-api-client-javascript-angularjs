@@ -11,5 +11,5 @@ API.Client.InlineResponse2001 = function() {}
  * @type {!number}
  * @export
  */
-API.Client.InlineResponse2001.prototype.count;
+API.Client.InlineResponse2001.prototype.count = 0;
 

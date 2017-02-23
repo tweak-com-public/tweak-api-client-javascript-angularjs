@@ -9,5 +9,5 @@ API.Client.InlineResponse2003 = function() {}
  * @type {!string}
  * @export
  */
-API.Client.InlineResponse2003.prototype.greeting;
+API.Client.InlineResponse2003.prototype.greeting = '';
 

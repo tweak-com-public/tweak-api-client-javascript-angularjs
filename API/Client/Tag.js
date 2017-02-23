@@ -9,17 +9,17 @@ API.Client.Tag = function() {}
  * @type {!string}
  * @export
  */
-API.Client.Tag.prototype.name;
+API.Client.Tag.prototype.name = '';
 
 /**
  * @type {!number}
  * @export
  */
-API.Client.Tag.prototype.id;
+API.Client.Tag.prototype.id = 0;
 
 /**
  * @type {!number}
  * @export
  */
-API.Client.Tag.prototype.designId;
+API.Client.Tag.prototype.designId = 0;
 

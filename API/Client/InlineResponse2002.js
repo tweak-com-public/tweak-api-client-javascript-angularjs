@@ -9,5 +9,5 @@ API.Client.InlineResponse2002 = function() {}
  * @type {!boolean}
  * @export
  */
-API.Client.InlineResponse2002.prototype.exists;
+API.Client.InlineResponse2002.prototype.exists = false;
 

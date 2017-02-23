@@ -9,5 +9,5 @@ API.Client.InlineResponse200 = function() {}
  * @type {!number}
  * @export
  */
-API.Client.InlineResponse200.prototype.count;
+API.Client.InlineResponse200.prototype.count = 0;
 
